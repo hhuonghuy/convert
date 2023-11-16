@@ -13,7 +13,7 @@ export const HeaderComponent = () => {
 					</label>
 				</div>
 				<div className="logo mb-3">
-					<img src="/public/img/logo.jpg" alt />
+					<img src="/imglogo.jpg" alt />
 				</div>
 				<input type="checkbox" id="menu" />
 				<ul className="nav">

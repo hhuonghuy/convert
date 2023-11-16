@@ -19,7 +19,7 @@ const DatHangPage = () => {
 						</div>
 						<div className="img d-flex align-items-center pe-5 gap-5">
 							<div className="image pt-5">
-								<img src="/public/img/a5 4.png" alt />
+								<img src="/imga5 4.png" alt />
 							</div>
 							<div className="nd lh-lg">
 								<p>

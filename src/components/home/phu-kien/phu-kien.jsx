@@ -9,44 +9,44 @@ export const PhuKienComponent = () => {
 				<div className="container text-center">
 					<div className="row">
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 2 1.png" alt />
+							<img src="/imgvòng tay 2 1.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 1 (1).png" alt />
+							<img src="/imgvòng tay 1 1 (1).png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 2.png" alt />
+							<img src="/imgvòng tay 1 2.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 3.png" alt />
+							<img src="/imgvòng tay 1 3.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 					</div>
 					<div className="row block">
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 2 1.png" alt />
+							<img src="/imgvòng tay 2 1.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 1 (1).png" alt />
+							<img src="/imgvòng tay 1 1 (1).png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 2.png" alt />
+							<img src="/imgvòng tay 1 2.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/public/img/vòng tay 1 3.png" alt />
+							<img src="/imgvòng tay 1 3.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>

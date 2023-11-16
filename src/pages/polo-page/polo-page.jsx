@@ -23,7 +23,7 @@ const PoloPage = () => {
 						<div className="container text-center">
 							<div className="row">
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/polo1.png" alt />
+									<img src="/imgpolo1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -34,7 +34,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a4 1.png" alt />
+									<img src="/imga4 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -45,7 +45,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a2 1.png" alt />
+									<img src="/imga2 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -57,7 +57,7 @@ const PoloPage = () => {
 								</div>
 								<div className="col-md-3 col-sm-6 item">
 									<img
-										src="/public/img/a5 4.png"
+										src="/imga5 4.png"
 										style={{ backgroundColor: 'white' }}
 										alt
 									/>
@@ -73,7 +73,7 @@ const PoloPage = () => {
 							</div>
 							<div className="row">
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/polo1.png" alt />
+									<img src="/imgpolo1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -84,7 +84,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a4 1.png" alt />
+									<img src="/imga4 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -95,7 +95,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a2 1.png" alt />
+									<img src="/imga2 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -107,7 +107,7 @@ const PoloPage = () => {
 								</div>
 								<div className="col-md-3 col-sm-6 item">
 									<img
-										src="/public/img/a5 4.png"
+										src="/imga5 4.png"
 										style={{ backgroundColor: 'white' }}
 										alt
 									/>
@@ -123,7 +123,7 @@ const PoloPage = () => {
 							</div>
 							<div className="row block">
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/polo1.png" alt />
+									<img src="/imgpolo1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -134,7 +134,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a4 1.png" alt />
+									<img src="/imga4 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -145,7 +145,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a2 1.png" alt />
+									<img src="/imga2 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -157,7 +157,7 @@ const PoloPage = () => {
 								</div>
 								<div className="col-md-3 col-sm-6 item">
 									<img
-										src="/public/img/a5 4.png"
+										src="/imga5 4.png"
 										style={{ backgroundColor: 'white' }}
 										alt
 									/>
@@ -173,7 +173,7 @@ const PoloPage = () => {
 							</div>
 							<div className="row block">
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/polo1.png" alt />
+									<img src="/imgpolo1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -184,7 +184,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a4 1.png" alt />
+									<img src="/imga4 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -195,7 +195,7 @@ const PoloPage = () => {
 									</button>
 								</div>
 								<div className="col-md-3 col-sm-6 item">
-									<img src="/public/img/a2 1.png" alt />
+									<img src="/imga2 1.png" alt />
 									<div className="name text-center">POLO PTS BLACK WHITE</div>
 									<div className="price text-center">330.000đ</div>
 									<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -207,7 +207,7 @@ const PoloPage = () => {
 								</div>
 								<div className="col-md-3 col-sm-6 item">
 									<img
-										src="/public/img/a5 4.png"
+										src="/imga5 4.png"
 										style={{ backgroundColor: 'white' }}
 										alt
 									/>

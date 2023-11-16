@@ -4,7 +4,7 @@ export const BannerComponent = () => {
 	return (
 		<>
 			<div className="banner">
-				<img src="/public/img/banner.png" alt="" />
+				<img src="/imgbanner.png" alt="" />
 			</div>
 
 			<div className="dichvu">
@@ -12,7 +12,7 @@ export const BannerComponent = () => {
 					<div className="item">
 						<div className="img">
 							<img
-								src="/public/img/vs.png"
+								src="/imgvs.png"
 								alt
 								style={{ marginTop: 10, marginLeft: 12 }}
 							/>
@@ -25,7 +25,7 @@ export const BannerComponent = () => {
 					</div>
 					<div className="item">
 						<div className="img">
-							<img src="/public/img/dt.png" alt />
+							<img src="/imgdt.png" alt />
 						</div>
 						<h4>VẬN CHUYỆN TOÀN CẦU</h4>
 						<p>
@@ -35,7 +35,7 @@ export const BannerComponent = () => {
 					</div>
 					<div className="item">
 						<div className="img">
-							<img src="/public/img/qua.png" alt />
+							<img src="/imgqua.png" alt />
 						</div>
 						<h4>QUÀ TẠNG HẤP DẪN</h4>
 						<p>
@@ -45,7 +45,7 @@ export const BannerComponent = () => {
 					</div>
 					<div className="item">
 						<div className="img">
-							<img src="/public/img/doitra.png" alt />
+							<img src="/imgdoitra.png" alt />
 						</div>
 						<h4>MIỄN PHÍ ĐỔI TRẢ</h4>
 						<p>

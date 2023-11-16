@@ -10,7 +10,7 @@ const RegisterPage = () => {
 				<div className="container">
 					<div className="login">
 						<div className="img">
-							<img src="/public/img/login 1.png" alt />
+							<img src="/imglogin 1.png" alt />
 						</div>
 					</div>
 					<form className="form">

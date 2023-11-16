@@ -9,12 +9,12 @@ const ProductDetailPage = () => {
 			<main className="product-detail">
 				<div className="container mb-5">
 					<div className="img">
-						<img src="/public/img/a5 4.png" className="img1" />
+						<img src="/imga5 4.png" className="img1" />
 						<div className="item-img">
-							<img src="/public/img/a5 4.png" alt />
-							<img src="/public/img/mota1 2.png" alt />
-							<img src="/public/img/mota3 2.png" alt />
-							<img src="/public/img/mota4 2.png" alt />
+							<img src="/imga5 4.png" alt />
+							<img src="/imgmota1 2.png" alt />
+							<img src="/imgmota3 2.png" alt />
+							<img src="/imgmota4 2.png" alt />
 						</div>
 					</div>
 					<div className="conten lh-base">

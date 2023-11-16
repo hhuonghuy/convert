@@ -22,7 +22,7 @@ export const FooterComponent = () => {
 						to="/"
 						className="d-flex align-items-center mb-3 link-body-emphasis text-decoration-none"
 					>
-						<img src="/public/img/logo.jpg" alt />
+						<img src="/imglogo.jpg" alt />
 					</Link>
 					<ul>
 						<li>

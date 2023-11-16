@@ -12,33 +12,29 @@ const AdminPage = () => {
 					<ul>
 						<li>
 							<Link to={'/'}>
-								<img
-									src="/public/img/User_cicrle_light.png"
-									className="user"
-									alt
-								/>
+								<img src="/imgUser_cicrle_light.png" className="user" alt />
 								Tên Nhân Viên
 							</Link>
 						</li>
 						<li>
 							<Link to={'/'}>
-								<img src="/public/img/Rectangle 83.png" alt /> Danh mục
+								<img src="/imgRectangle 83.png" alt /> Danh mục
 							</Link>
 						</li>
 						<li>
 							<Link to={'/'}>
-								<img src="/public/img/Rectangle 81.png" alt /> Sản phẩm
+								<img src="/imgRectangle 81.png" alt /> Sản phẩm
 							</Link>
 						</li>
 						<li>
 							<Link to={'/'}>
-								<img src="/public/img/Rectangle 80.png" alt />
+								<img src="/imgRectangle 80.png" alt />
 								Đơn hg
 							</Link>
 						</li>
 						<li>
 							<Link to={'/'}>
-								<img src="/public/img/Rectangle 84.png" alt />
+								<img src="/imgRectangle 84.png" alt />
 								Khách hg
 							</Link>
 						</li>
