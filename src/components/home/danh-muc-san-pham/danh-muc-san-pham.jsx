@@ -7,16 +7,16 @@ export const DanhMucSanPham = () => {
 				<div className="container text-center">
 					<div className="row">
 						<div className="col-md-4 col-sm-6 item">
-							<img src="/imgaothun1.png" alt />
+							<img src="/public/img/aothun1.png" alt />
 						</div>
 						<div className="col-md-4 col-sm-6 item img">
-							<img src="/imgpolo1.png" alt />
+							<img src="/public/img/polo1.png" alt />
 						</div>
 						<div className="col-md-4 col-sm-6 item img">
-							<img src="/imgsomi1.png" alt />
+							<img src="/public/img/somi1.png" alt />
 						</div>
 						<div className="col-md-3 col-sm-6 item none img">
-							<img src="/imgvòng tay 1 1 (1).png" alt />
+							<img src="/public/img/vòng tay 1 1 (1).png" alt />
 						</div>
 					</div>
 					<button

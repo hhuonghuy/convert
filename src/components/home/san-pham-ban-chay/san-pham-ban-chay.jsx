@@ -14,22 +14,22 @@ export const SanPhamBanChay = () => {
 				<div className="container text-center">
 					<div className="row">
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/imga4 1.png" alt />
+							<img src="/public/img/a4 1.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/imga5 4.png" alt />
+							<img src="/public/img/a5 4.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/imga2 1.png" alt />
+							<img src="/public/img/a2 1.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="col-md-3 col-sm-6 item">
-							<img src="/imga1 4.png" alt />
+							<img src="/public/img/a1 4.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>

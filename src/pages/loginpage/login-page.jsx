@@ -10,7 +10,7 @@ const LoginPage = () => {
 				<div className="container">
 					<div className="login block">
 						<div className="img">
-							<img src="/imglogin 1.png" alt />
+							<img src="/public/img/login 1.png" alt />
 						</div>
 					</div>
 					<form className="form">
@@ -112,7 +112,7 @@ C318.115,0,375.068,22.126,419.404,58.936z"
 								/>
 							</div>
 							<div className="zalo">
-								<img src="/imgzalo 1.png" style={{ width: 35 }} alt />
+								<img src="/public/img/zalo 1.png" style={{ width: 35 }} alt />
 							</div>
 						</div>
 					</form>

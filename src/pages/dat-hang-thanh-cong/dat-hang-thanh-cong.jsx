@@ -25,7 +25,7 @@ const DatHangThanhCong = () => {
 						<h2 className="pb-2 h2">CHI TIẾT ĐƠN HÀNG</h2>
 						<div className="img d-flex align-items-center pe-5 gap-5">
 							<div className="image pt-5">
-								<img src="/imga5 4.png" alt />
+								<img src="/public/img/a5 4.png" alt />
 							</div>
 							<div className="nd lh-lg">
 								<p>
@@ -47,7 +47,7 @@ const DatHangThanhCong = () => {
 					<p>Địa chỉ: 416/11 Dương Quãng Hàm, phường 5, Quận Gò Vấp</p>
 					<p>Ghi chú: Giao lẹ dùm nha shop</p>
 					<img
-						src="/imgthanksyou 1.png"
+						src="/public/img/thanksyou 1.png"
 						alt
 						className="container pb-3"
 						style={{ width: 80 }}

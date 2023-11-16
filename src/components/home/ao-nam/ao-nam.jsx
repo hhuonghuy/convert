@@ -11,18 +11,18 @@ export const AoNamComponent = () => {
 				<div className="list">
 					<div className="item1">
 						<div className="item">
-							<img src="/imgWhitelow.png" alt />
+							<img src="/public/img/Whitelow.png" alt />
 							<div className="name text-center">Whitelow</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 						<div className="item">
-							<img src="/imgBlackdara.png" alt />
+							<img src="/public/img/Blackdara.png" alt />
 							<div className="name text-center">Blackdara</div>
 							<div className="price text-center">5.600.000đ</div>
 						</div>
 					</div>
 					<div className="item2 px-3">
-						<img src="/imgsale.png" className="mb-4" alt />
+						<img src="/public/img/sale.png" className="mb-4" alt />
 						<div className="none">
 							<div className="an d-flex gap-5 justify-content-center">
 								<span className="active" />
@@ -35,22 +35,22 @@ export const AoNamComponent = () => {
 			<div className="container text-center">
 				<div className="rows">
 					<div className="col-md-3 col-sm-6 img">
-						<img src="/imgBitamablue.png" alt />
+						<img src="/public/img/Bitamablue.png" alt />
 						<div className="name text-center">Bitamablue</div>
 						<div className="price text-center">5.600.000đ</div>
 					</div>
 					<div className="col-md-3 col-sm-6 img">
-						<img src="/imgMiqeok.png" alt />
+						<img src="/public/img/Miqeok.png" alt />
 						<div className="name text-center">Miqeok</div>
 						<div className="price text-center">5.600.000đ</div>
 					</div>
 					<div className="col-md-3 col-sm-6 img">
-						<img src="/imgMinuawe.png" alt />
+						<img src="/public/img/Minuawe.png" alt />
 						<div className="name text-center">Minuawe</div>
 						<div className="price text-center">5.600.000đ</div>
 					</div>
 					<div className="col-md-3 col-sm-6 img">
-						<img src="/imgpolo1.png" alt />
+						<img src="/public/img/polo1.png" alt />
 						<div className="name text-center">Pawaqa</div>
 						<div className="price text-center">5.600.000đ</div>
 					</div>

@@ -24,7 +24,7 @@ const QuanShortPage = () => {
 					<div className="container text-center">
 						<div className="row">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga1 6.png" alt />
+								<img src="/public/img/a1 6.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -35,7 +35,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh2 2 (1).png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -46,7 +46,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga2.png" alt />
+								<img src="/public/img/a2.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -57,7 +57,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh3 3 (1).png" alt />
+								<img src="/public/img/đh3 3 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -70,7 +70,7 @@ const QuanShortPage = () => {
 						</div>
 						<div className="row">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga1 6.png" alt />
+								<img src="/public/img/a1 6.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -81,7 +81,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh2 2 (1).png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -92,7 +92,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga2.png" alt />
+								<img src="/public/img/a2.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -103,53 +103,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh3 3 (1).png" alt />
-								<div className="name text-center">POLO PTS BLACK WHITE</div>
-								<div className="price text-center">330.000đ</div>
-								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
-									Thêm giỏ hàng
-								</button>
-								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
-									Mua ngay
-								</button>
-							</div>
-						</div>
-						<div className="row block">
-							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga1 6.png" alt />
-								<div className="name text-center">POLO PTS BLACK WHITE</div>
-								<div className="price text-center">330.000đ</div>
-								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
-									Thêm giỏ hàng
-								</button>
-								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
-									Mua ngay
-								</button>
-							</div>
-							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh2 2 (1).png" alt />
-								<div className="name text-center">POLO PTS BLACK WHITE</div>
-								<div className="price text-center">330.000đ</div>
-								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
-									Thêm giỏ hàng
-								</button>
-								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
-									Mua ngay
-								</button>
-							</div>
-							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga2.png" alt />
-								<div className="name text-center">POLO PTS BLACK WHITE</div>
-								<div className="price text-center">330.000đ</div>
-								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
-									Thêm giỏ hàng
-								</button>
-								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
-									Mua ngay
-								</button>
-							</div>
-							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh3 3 (1).png" alt />
+								<img src="/public/img/đh3 3 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -162,7 +116,7 @@ const QuanShortPage = () => {
 						</div>
 						<div className="row block">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga1 6.png" alt />
+								<img src="/public/img/a1 6.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -173,7 +127,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh2 2 (1).png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -184,7 +138,7 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imga2.png" alt />
+								<img src="/public/img/a2.png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -195,7 +149,53 @@ const QuanShortPage = () => {
 								</button>
 							</div>
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/imgđh3 3 (1).png" alt />
+								<img src="/public/img/đh3 3 (1).png" alt />
+								<div className="name text-center">POLO PTS BLACK WHITE</div>
+								<div className="price text-center">330.000đ</div>
+								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
+									Thêm giỏ hàng
+								</button>
+								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
+									Mua ngay
+								</button>
+							</div>
+						</div>
+						<div className="row block">
+							<div className="col-md-3 col-sm-6 item">
+								<img src="/public/img/a1 6.png" alt />
+								<div className="name text-center">POLO PTS BLACK WHITE</div>
+								<div className="price text-center">330.000đ</div>
+								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
+									Thêm giỏ hàng
+								</button>
+								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
+									Mua ngay
+								</button>
+							</div>
+							<div className="col-md-3 col-sm-6 item">
+								<img src="/public/img/đh2 2 (1).png" alt />
+								<div className="name text-center">POLO PTS BLACK WHITE</div>
+								<div className="price text-center">330.000đ</div>
+								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
+									Thêm giỏ hàng
+								</button>
+								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
+									Mua ngay
+								</button>
+							</div>
+							<div className="col-md-3 col-sm-6 item">
+								<img src="/public/img/a2.png" alt />
+								<div className="name text-center">POLO PTS BLACK WHITE</div>
+								<div className="price text-center">330.000đ</div>
+								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
+									Thêm giỏ hàng
+								</button>
+								<button style={{ backgroundColor: 'rgba(217, 217, 217, 1)' }}>
+									Mua ngay
+								</button>
+							</div>
+							<div className="col-md-3 col-sm-6 item">
+								<img src="/public/img/đh3 3 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
