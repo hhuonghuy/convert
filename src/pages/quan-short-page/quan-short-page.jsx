@@ -24,7 +24,7 @@ const QuanShortPage = () => {
 					<div className="container text-center">
 						<div className="row">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/public/img/a1 6.png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -70,7 +70,7 @@ const QuanShortPage = () => {
 						</div>
 						<div className="row">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/public/img/a1 6.png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -116,7 +116,7 @@ const QuanShortPage = () => {
 						</div>
 						<div className="row block">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/public/img/a1 6.png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>
@@ -162,7 +162,7 @@ const QuanShortPage = () => {
 						</div>
 						<div className="row block">
 							<div className="col-md-3 col-sm-6 item">
-								<img src="/public/img/a1 6.png" alt />
+								<img src="/public/img/đh2 2 (1).png" alt />
 								<div className="name text-center">POLO PTS BLACK WHITE</div>
 								<div className="price text-center">330.000đ</div>
 								<button style={{ backgroundColor: 'rgba(252, 212, 0, 1)' }}>

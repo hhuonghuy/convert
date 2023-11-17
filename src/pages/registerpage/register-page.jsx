@@ -6,7 +6,7 @@ import React from 'react';
 const RegisterPage = () => {
 	return (
 		<LayoutDefault>
-			<main>
+			<main className="login-page">
 				<div className="container">
 					<div className="login">
 						<div className="img">
